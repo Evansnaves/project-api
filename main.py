@@ -75,3 +75,4 @@ def getFilterData(name: str):
 
 # fastapi -> include docs -> Swagger -> akses: endpoint/docs
 # opsiL install Postman -> software API documentation
+
